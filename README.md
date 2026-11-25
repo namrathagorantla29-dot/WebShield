@@ -1,3 +1,4 @@
+HEAD
 # WebShield – Automated Website and API Security Testing Platform
 
 [![Java](https://img.shields.io/badge/Java-21%20LTS-orange.svg)](https://www.oracle.com/java/)
@@ -253,3 +254,7 @@ HttpResponse<String> response = httpClient.send(httpRequest, HttpResponse.BodyHa
 
 ## 📜 Ethical Assessment Policy
 WebShield is built strictly for authorized security auditing, defensive hardening, and educational research. Users must only scan systems they own or have explicit written permission to test.
+
+# WebShield
+A web application security tool for detecting vulnerabilities, analyzing APIs, and identifying potential security threats.
+0509db071ef811b6ea6acc12e2f95303507de3e7
